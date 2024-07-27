@@ -46,6 +46,7 @@ Se você estiver usando iPhone ou computador, pode acessar por este link:
 {tpe_iphone}
 """
     
+    
 
 # Enviar mensagem pelo WhatsApp
     try:
